@@ -1,3 +1,3 @@
-# Spring Boot JWT Authentication
+# Spring Boot Authentication
 
 ```
